@@ -1,0 +1,13 @@
+name: Scorigami
+title: Scorigami
+username:
+account: mlarys
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 8609730
+bundleId: 6979086
+url: https://mlarys.shinyapps.io/Scorigami/
+when: 1679249803.39423
+lastSyncTime: 1679249803.39424
+asMultiple: FALSE
+asStatic: FALSE
